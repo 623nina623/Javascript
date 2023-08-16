@@ -1,0 +1,19 @@
+.first_num, .power  {
+    margin: 10px 0;
+}
+
+#f_num , #pow {
+    padding: 5px;
+    width: 70px;
+}
+
+.pow_btn {
+    background: linear-gradient(to right, #fbc2eb 0%, #a6c1ee 51%, #fbc2eb 100%);
+    color: #000;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    font-family: 'Times New Roman';
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
