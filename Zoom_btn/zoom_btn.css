@@ -1,0 +1,21 @@
+.zoom_in , .zoom_out {
+    background-color: #a448e2;
+    color: aliceblue ;
+    border-radius: 10px;
+    width: 100px;
+    height: 50px;
+    font-family: 'Times New Roman';
+    font-size: 25px;
+    font-weight: 900;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin: 0 20px;
+}
+
+.text {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    margin: 20px;
+}
+
+
